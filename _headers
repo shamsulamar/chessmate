@@ -1,0 +1,3 @@
+# Netlify / Cloudflare Pages / similar: correct WASM MIME (avoids worker load failures)
+/stockfish/stockfish.wasm
+  Content-Type: application/wasm
